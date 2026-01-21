@@ -1,0 +1,24 @@
+KEY INSIGHTS – IPL ANALYSIS DASHBOARD (2008–2025)
+
+1. Consistent Team Performance
+Teams like Chennai Super Kings have shown consistent performance across multiple seasons, frequently reaching playoffs and winning championships.
+
+2. Increasing Batting Aggression
+There is a noticeable increase in the number of fours and sixes in recent seasons, indicating a shift towards aggressive batting strategies in IPL.
+
+3. Impact of Individual Players
+Orange Cap and Purple Cap winners often belong to top-performing teams, showing that strong individual performances significantly impact overall team success.
+
+4. Competitive Nature of IPL
+Points table analysis highlights close competition among teams, where even a small difference in wins affects playoff qualification.
+
+5. Venue Influence on Matches
+Certain venues consistently record higher boundary counts, suggesting pitch conditions and ground size influence match outcomes.
+
+6. Importance of Consistency
+Teams with steady performance across matches tend to finish higher in the points table compared to teams with inconsistent results.
+
+7. Season-wise Performance Variation
+Some teams show sharp improvement or decline in specific seasons, reflecting the impact of player auctions, team combinations, and form.
+
+This insights file is created from the IPL Analysis Dashboard built using Power BI (2008–2025).
